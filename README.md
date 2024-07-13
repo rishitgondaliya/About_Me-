@@ -13,13 +13,13 @@
 
 ### Portfolio Website
 - Description: A personal portfolio website showcasing my projects and skills.
-- Link: [https://github.com/rishitgondaliya/portfolio-website](https://rishitgondaliya.netlify.app/)
+- Link: [My Portfolio](https://rishitgondaliya.netlify.app/)
 
 ## Contact
 
 Feel free to reach out to me via:
 - Email: mrrishitgondaliya@gmail.com
-- LinkedIn: https://www.linkedin.com/in/rishit-gondaliya-1b0b20250
+- LinkedIn: [rishit-gondaliya](https://www.linkedin.com/in/rishit-gondaliya-1b0b20250)
 
 ---
 
