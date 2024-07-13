@@ -13,7 +13,7 @@
 
 ### Portfolio Website
 - Description: A personal portfolio website showcasing my projects and skills.
-- Link: [https://github.com/rishitgondaliya/portfolio-website](https://github.com/rishitgondaliya/portfolio-website)
+- Link: [https://github.com/rishitgondaliya/portfolio-website](https://rishitgondaliya.netlify.app/)
 
 ## Contact
 
